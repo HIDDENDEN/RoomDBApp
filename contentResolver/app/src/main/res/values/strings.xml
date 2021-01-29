@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SecondAppForContentProviderTest</string>
+
+    <string-array name="Tables">
+        <item>Album</item>
+        <item>Song</item>
+        <item>AlbumSong</item>
+    </string-array>
+
+    <string-array name="Actions">
+        <item>query</item>
+        <item>insert</item>
+        <item>update</item>
+        <item>delete</item>
+    </string-array>
+</resources>
